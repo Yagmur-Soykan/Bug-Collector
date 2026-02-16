@@ -1,2 +1,13 @@
-# Bug-Collector
-Bug Collector, React (Vite) ve Tailwind CSS ile geliştirilmiş bir hata takip uygulamasıdır. Kullanıcı yeni böcek/hata ekleyebilir, listeleyebilir, düzenleyebilir ve silebilir. Silinen her kayıt için şiddet seviyesine göre puan kazanılır; toplam puan ve yakalanan böcek sayısı takip edilir.
+﻿# Bug Collector
+
+Bug Collector is a bug tracking app built with React (Vite) and Tailwind CSS.
+
+## Features
+- Add, list, edit, and delete bug records
+- Track severity and status for each bug
+- Keep score based on resolved/deleted bug severity
+
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
