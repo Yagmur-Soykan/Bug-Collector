@@ -7,7 +7,3 @@ Bug Collector is a bug tracking app built with React (Vite) and Tailwind CSS.
 - Track severity and status for each bug
 - Keep score based on resolved/deleted bug severity
 
-## Tech Stack
-- React
-- Vite
-- Tailwind CSS
